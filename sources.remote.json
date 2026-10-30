@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-30T02:39:22.931Z",
+  "note": "WoDCK News 源配置（远程下发）。格式见 docs/81；只描述怎么取，不含可执行代码。",
+  "sources": [],
+  "revision": 2
+}
