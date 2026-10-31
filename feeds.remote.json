@@ -1,0 +1,1505 @@
+{
+ "version": 1,
+ "updatedAt": "2026-10-31T15:36:43.837Z",
+ "note": "WoDCK News 订阅精选目录（远端下发）：与 public/feeds-catalog.json 同构；改完不需要发版。",
+ "groups": [
+  {
+   "group": "科技媒体",
+   "cat": "tech",
+   "why": "更新稳定、有编辑观点",
+   "items": [
+    {
+     "name": "极客公园",
+     "url": "https://www.geekpark.net/rss",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "geekpark.net"
+    },
+    {
+     "name": "开源中国",
+     "url": "https://www.oschina.net/news/rss",
+     "cat": "tech",
+     "why": "最近更新 2026-10-30",
+     "site": "oschina.net"
+    },
+    {
+     "name": "InfoQ 中文",
+     "url": "https://www.infoq.cn/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "infoq.cn"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://feeds.arstechnica.com/arstechnica/index",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "arstechnica.com"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/rss/index.xml",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "theverge.com"
+    },
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/feed/rss",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "wired.com"
+    },
+    {
+     "name": "少数派",
+     "url": "https://sspai.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "sspai.com"
+    },
+    {
+     "name": "爱范儿",
+     "url": "https://www.ifanr.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "ifanr.com"
+    },
+    {
+     "name": "极客公园",
+     "url": "http://www.geekpark.net/rss",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "geekpark.net"
+    },
+    {
+     "name": "奇客Solidot–传递最新科技情报",
+     "url": "https://www.solidot.org/index.rss",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "solidot.org"
+    },
+    {
+     "name": "36氪",
+     "url": "https://www.36kr.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "36kr.com"
+    },
+    {
+     "name": "36氪 - 快讯",
+     "url": "rsshub://36kr/newsflashes",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "36kr.com"
+    },
+    {
+     "name": "虎嗅",
+     "url": "https://rss.huxiu.com/",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "huxiu.com"
+    },
+    {
+     "name": "钛媒体：引领未来商业与生活新知",
+     "url": "https://www.tmtpost.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "tmtpost.com"
+    },
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/rss/",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "ithome.com"
+    },
+    {
+     "name": "IT之家-24 小时最热",
+     "url": "rsshub://ithome/ranking/24h",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "ithome.com"
+    },
+    {
+     "name": "机器之心",
+     "url": "http://plink.anyfeeder.com/weixin/almosthuman2014",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "雷峰网",
+     "url": "https://plink.anyfeeder.com/leiphone",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "leiphone.com"
+    },
+    {
+     "name": "超能网",
+     "url": "https://plink.anyfeeder.com/expreview",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "expreview.com"
+    },
+    {
+     "name": "科技美学",
+     "url": "https://plink.anyfeeder.com/weixin/kejimx",
+     "cat": "tech",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "数字尾巴 - 首页",
+     "url": "https://plink.anyfeeder.com/dgtle",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "dgtle.com"
+    },
+    {
+     "name": "cnBeta",
+     "url": "https://plink.anyfeeder.com/cnbeta",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "m.cnbeta.com.tw"
+    },
+    {
+     "name": "腾讯科技",
+     "url": "https://plink.anyfeeder.com/weixin/qqtech",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "微软研究院AI头条",
+     "url": "https://plink.anyfeeder.com/weixin/MSRAsia",
+     "cat": "tech",
+     "why": "最近更新 2026-10-29",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "MIT 科技评论 - 本周热榜",
+     "url": "https://plink.anyfeeder.com/mittrchina/hot",
+     "cat": "tech",
+     "why": "最近更新 2026-10-29",
+     "site": "mittrchina.com"
+    },
+    {
+     "name": "知识分子",
+     "url": "http://plink.anyfeeder.com/weixin/The-Intellectual",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "果壳网",
+     "url": "https://plink.anyfeeder.com/weixin/Guokr42",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "果壳网 科学人",
+     "url": "https://plink.anyfeeder.com/guokr/scientific",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "guokr.com"
+    },
+    {
+     "name": "环球科学",
+     "url": "https://plink.anyfeeder.com/weixin/ScientificAmerican",
+     "cat": "tech",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "人人都是产品经理",
+     "url": "https://www.woshipm.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "woshipm.com"
+    },
+    {
+     "name": "三节课",
+     "url": "https://plink.anyfeeder.com/weixin/sanjieke01",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "笔记侠",
+     "url": "https://plink.anyfeeder.com/weixin/Notesman",
+     "cat": "tech",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "新经济100人",
+     "url": "https://plink.anyfeeder.com/weixin/qiyejiagc",
+     "cat": "tech",
+     "why": "最近更新 2026-06-17",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "东哥解读电商",
+     "url": "https://plink.anyfeeder.com/weixin/dgjdds",
+     "cat": "tech",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "阑夕",
+     "url": "https://plink.anyfeeder.com/weixin/techread",
+     "cat": "tech",
+     "why": "最近更新 2026-10-29",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "caoz的梦呓",
+     "url": "https://plink.anyfeeder.com/weixin/caozsay",
+     "cat": "tech",
+     "why": "最近更新 2026-10-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "小道消息",
+     "url": "https://plink.anyfeeder.com/weixin/WebNotes",
+     "cat": "tech",
+     "why": "最近更新 2026-10-24",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "槽边往事",
+     "url": "https://plink.anyfeeder.com/weixin/bitsea",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "喷嚏-70",
+     "url": "https://plink.anyfeeder.com/pentitugua",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "dapenti.com"
+    },
+    {
+     "name": "知乎日报",
+     "url": "http://feeds.feedburner.com/zhihu-daily",
+     "cat": "tech",
+     "why": "长期更新",
+     "site": "feeds.feedburner.com"
+    }
+   ]
+  },
+  {
+   "group": "开发与技术",
+   "cat": "dev",
+   "why": "工程实践、源码与一线团队",
+   "items": [
+    {
+     "name": "GitHub Blog",
+     "url": "https://github.blog/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-28",
+     "site": "github.blog"
+    },
+    {
+     "name": "Lobsters",
+     "url": "https://lobste.rs/rss",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "cyberplace.social"
+    },
+    {
+     "name": "The Changelog",
+     "url": "https://changelog.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-28",
+     "site": "changelog.com"
+    },
+    {
+     "name": "HN 热榜（按分筛选）",
+     "url": "https://hnrss.org/best",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "science.org"
+    },
+    {
+     "name": "V2EX",
+     "url": "https://v2ex.com/index.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "v2ex.com"
+    },
+    {
+     "name": "V2EX - 技术",
+     "url": "https://www.v2ex.com/feed/tab/tech.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "v2ex.com"
+    },
+    {
+     "name": "掘金 前端",
+     "url": "rsshub://juejin/category/frontend",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "juejin.cn"
+    },
+    {
+     "name": "掘金专栏-字节跳动技术团队",
+     "url": "rsshub://juejin/posts/1838039172387262",
+     "cat": "dev",
+     "why": "最近更新 2025-07-21",
+     "site": "juejin.cn"
+    },
+    {
+     "name": "掘金专栏-飞猪前端团队",
+     "url": "rsshub://juejin/posts/3051900006845944",
+     "cat": "dev",
+     "why": "最近更新 2023-11-03",
+     "site": "juejin.cn"
+    },
+    {
+     "name": "美团技术团队",
+     "url": "https://tech.meituan.com/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "tech.meituan.com"
+    },
+    {
+     "name": "HelloGitHub 月刊",
+     "url": "http://hellogithub.com/rss",
+     "cat": "dev",
+     "why": "最近更新 2026-10-28",
+     "site": "hellogithub.com"
+    },
+    {
+     "name": "ImportNew",
+     "url": "https://plink.anyfeeder.com/weixin/importnew",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "CSDN",
+     "url": "https://plink.anyfeeder.com/weixin/CSDNnews",
+     "cat": "dev",
+     "why": "最近更新 2024-03-11",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "架构师之路",
+     "url": "https://plink.anyfeeder.com/weixin/gh_10a6b96351a9",
+     "cat": "dev",
+     "why": "最近更新 2026-10-28",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "前端之巅",
+     "url": "https://plink.anyfeeder.com/weixin/frontshow",
+     "cat": "dev",
+     "why": "最近更新 2026-03-15",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "Tony Bai",
+     "url": "http://tonybai.com/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "tonybai.com"
+    },
+    {
+     "name": "DBA Notes",
+     "url": "http://dbanotes.net/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-07-05",
+     "site": "dbanotes.net"
+    },
+    {
+     "name": "全栈应用开发:精益实践",
+     "url": "https://www.phodal.com/blog/feeds/rss/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "phodal.com"
+    },
+    {
+     "name": "小明明s à domicile",
+     "url": "https://www.dongwm.com/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "dongwm.com"
+    },
+    {
+     "name": "小胡子哥的个人网站",
+     "url": "http://www.barretlee.com/rss2.xml",
+     "cat": "dev",
+     "why": "最近更新 2025-07-19",
+     "site": "barretlee.com"
+    },
+    {
+     "name": "CSS-Tricks",
+     "url": "https://css-tricks.com/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "css-tricks.com"
+    },
+    {
+     "name": "Dan Abramov's Overreacted Blog RSS Feed",
+     "url": "https://overreacted.io/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-09-18",
+     "site": "overreacted.io"
+    },
+    {
+     "name": "Josh Comeau's blog",
+     "url": "https://www.joshwcomeau.com/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-20",
+     "site": "joshwcomeau.com"
+    },
+    {
+     "name": "Anthony Fu",
+     "url": "https://antfu.me/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-09-16",
+     "site": "antfu.me"
+    },
+    {
+     "name": "Julia Evans",
+     "url": "https://jvns.ca/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-09-27",
+     "site": "jvns.ca"
+    },
+    {
+     "name": "web.dev",
+     "url": "https://web.dev/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-02",
+     "site": "web.dev"
+    },
+    {
+     "name": "编程随想的博客",
+     "url": "https://feeds2.feedburner.com/programthink",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "feeds2.feedburner.com"
+    },
+    {
+     "name": "云风的 BLOG",
+     "url": "http://blog.codingnow.com/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-20",
+     "site": "blog.codingnow.com"
+    },
+    {
+     "name": "唐巧的博客",
+     "url": "http://blog.devtang.com/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-19",
+     "site": "blog.devtang.com"
+    },
+    {
+     "name": "二丫讲梵",
+     "url": "https://wiki.eryajf.net/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "wiki.eryajf.net"
+    },
+    {
+     "name": "卢昌海的个人主页",
+     "url": "https://www.changhai.org/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "youtube.com"
+    },
+    {
+     "name": "月光博客",
+     "url": "http://www.williamlong.info/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "williamlong.info"
+    },
+    {
+     "name": "风雪之隅",
+     "url": "http://www.laruence.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "laruence.com"
+    },
+    {
+     "name": "离别歌",
+     "url": "https://www.leavesongs.com/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-09-13",
+     "site": "leavesongs.com"
+    },
+    {
+     "name": "程序员的喵",
+     "url": "https://catcoding.me/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-20",
+     "site": "catcoding.me"
+    }
+   ]
+  },
+  {
+   "group": "独立博客",
+   "cat": "dev",
+   "why": "一个人写，节奏由自己定",
+   "items": [
+    {
+     "name": "太隐",
+     "url": "https://wangyurui.com/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "wangyurui.com"
+    },
+    {
+     "name": "胡涂说",
+     "url": "https://hutusi.com/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-25",
+     "site": "hutusi.com"
+    },
+    {
+     "name": "土木坛子",
+     "url": "https://tumutanzi.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-27",
+     "site": "tumutanzi.com"
+    },
+    {
+     "name": "oldj's blog",
+     "url": "https://oldj.net/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-09-21",
+     "site": "oldj.net"
+    },
+    {
+     "name": "Randy's Blog",
+     "url": "https://lutaonan.com/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-06-10",
+     "site": "lutaonan.com"
+    },
+    {
+     "name": "晚晴幽草轩",
+     "url": "https://www.jeffjade.com/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-09-22",
+     "site": "jeffjade.com"
+    },
+    {
+     "name": "Decohack",
+     "url": "https://www.decohack.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "decohack.com"
+    },
+    {
+     "name": "透明创业实验",
+     "url": "https://blog.t9t.io/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2025-11-21",
+     "site": "blog.t9t.io"
+    },
+    {
+     "name": "卡瓦邦噶！ » Feed",
+     "url": "https://www.kawabangga.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "kawabangga.com"
+    },
+    {
+     "name": "bboysoul的博客",
+     "url": "https://www.bboy.app/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-27",
+     "site": "bboy.app"
+    },
+    {
+     "name": "轶哥博客",
+     "url": "https://www.wyr.me/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-08-26",
+     "site": "wyr.me"
+    },
+    {
+     "name": "GeekPlux",
+     "url": "https://geekplux.com/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-27",
+     "site": "geekplux.com"
+    },
+    {
+     "name": "maxOS",
+     "url": "https://maxoxo.me/rss/",
+     "cat": "dev",
+     "why": "最近更新 2026-06-28",
+     "site": "maxoxo.me"
+    },
+    {
+     "name": "BAI YUN",
+     "url": "https://baiyun.me/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-10-31",
+     "site": "baiyun.me"
+    },
+    {
+     "name": "elmagnifico",
+     "url": "http://elmagnifico.tech/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-30",
+     "site": "elmagnifico.tech"
+    },
+    {
+     "name": "Phoenix's island",
+     "url": "https://blog.phoenixlzx.com/atom.xml",
+     "cat": "dev",
+     "why": "最近更新 2024-04-21",
+     "site": "blog.phoenixlzx.com"
+    },
+    {
+     "name": "笨方法学写作",
+     "url": "https://www.cnfeat.com/feed.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-07-23",
+     "site": "cnfeat.com"
+    },
+    {
+     "name": "王登科-DK博客",
+     "url": "https://greatdk.com/feed",
+     "cat": "dev",
+     "why": "最近更新 2026-07-02",
+     "site": "greatdk.com"
+    },
+    {
+     "name": "Amicoyuan的高性能计算世界",
+     "url": "https://my-rssh-gwb5d33jd-amicoyuan.vercel.app/hexo/fluid/xingyuanjie.top",
+     "cat": "dev",
+     "why": "最近更新 2023-07-30",
+     "site": "xingyuanjie.top"
+    },
+    {
+     "name": "木遥的窗子",
+     "url": "http://blog.farmostwood.net/feed",
+     "cat": "dev",
+     "why": "最近更新 2023-07-13",
+     "site": "blog.farmostwood.net"
+    },
+    {
+     "name": "西秦公子",
+     "url": "https://www.ixiqin.com/feed/",
+     "cat": "dev",
+     "why": "最近更新 2026-10-29",
+     "site": "ixiqin.com"
+    },
+    {
+     "name": "构建我的被动收入",
+     "url": "https://www.bmpi.dev/index.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-06",
+     "site": "bmpi.dev"
+    },
+    {
+     "name": "潮流周刊",
+     "url": "https://weekly.tw93.fun/rss.xml",
+     "cat": "dev",
+     "why": "最近更新 2026-10-26",
+     "site": "weekly.tw93.fun"
+    }
+   ]
+  },
+  {
+   "group": "财经与商业",
+   "cat": "finance",
+   "why": "钱从哪里来、往哪里去",
+   "items": [
+    {
+     "name": "华尔街见闻",
+     "url": "https://plink.anyfeeder.com/weixin/wallstreetcn",
+     "cat": "finance",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "第一财经周刊",
+     "url": "https://plink.anyfeeder.com/weixin/CBNweekly2008",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "21世纪经济报道",
+     "url": "https://plink.anyfeeder.com/weixin/jjbd21",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "经济观察报",
+     "url": "https://plink.anyfeeder.com/weixin/eeo-com-cn",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "经济日报",
+     "url": "https://plink.anyfeeder.com/jingjiribao",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31"
+    },
+    {
+     "name": "雪球",
+     "url": "https://plink.anyfeeder.com/weixin/xueqiujinghua",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "叶檀财经",
+     "url": "https://plink.anyfeeder.com/weixin/tancaijing",
+     "cat": "finance",
+     "why": "最近更新 2026-10-28",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "吴晓波频道",
+     "url": "https://plink.anyfeeder.com/weixin/wuxiaobopd",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "饭统戴老板",
+     "url": "https://plink.anyfeeder.com/weixin/worldofboss",
+     "cat": "finance",
+     "why": "最近更新 2026-10-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "新财富",
+     "url": "https://plink.anyfeeder.com/weixin/newfortune",
+     "cat": "finance",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "德林社",
+     "url": "https://plink.anyfeeder.com/weixin/delinshe",
+     "cat": "finance",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "猫笔刀",
+     "url": "https://plink.anyfeeder.com/weixin/maobidao",
+     "cat": "finance",
+     "why": "最近更新 2025-11-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "唐书房",
+     "url": "https://plink.anyfeeder.com/weixin/clouds70",
+     "cat": "finance",
+     "why": "最近更新 2025-12-29",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "福布斯",
+     "url": "https://plink.anyfeeder.com/weixin/forbes_china",
+     "cat": "finance",
+     "why": "最近更新 2026-09-04",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "财富中文网",
+     "url": "https://plink.anyfeeder.com/fortunechina",
+     "cat": "finance",
+     "why": "最近更新 2026-10-28",
+     "site": "fortunechina.com"
+    },
+    {
+     "name": "商业 - 财富中文网 - FORTUNEChina.com",
+     "url": "https://plink.anyfeeder.com/fortunechina/shangye",
+     "cat": "finance",
+     "why": "最近更新 2026-10-28",
+     "site": "fortunechina.com"
+    },
+    {
+     "name": "科技 - 财富中文网 - FORTUNEChina.com",
+     "url": "https://plink.anyfeeder.com/fortunechina/keji",
+     "cat": "finance",
+     "why": "最近更新 2026-10-19",
+     "site": "fortunechina.com"
+    },
+    {
+     "name": "哈佛商业评论",
+     "url": "https://plink.anyfeeder.com/weixin/hbrchinese",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "中国企业家杂志",
+     "url": "https://plink.anyfeeder.com/weixin/iceo-com-cn",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "刘润",
+     "url": "https://plink.anyfeeder.com/weixin/runliu-pub",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "美股研究社",
+     "url": "https://plink.anyfeeder.com/weixin/meigushe",
+     "cat": "finance",
+     "why": "最近更新 2026-05-25",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "棱镜",
+     "url": "https://plink.anyfeeder.com/weixin/lengjing_qqfinance",
+     "cat": "finance",
+     "why": "最近更新 2026-10-28",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "搬砖小组",
+     "url": "https://plink.anyfeeder.com/weixin/banzhuanxiaozu",
+     "cat": "finance",
+     "why": "最近更新 2026-09-24",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "疯投圈",
+     "url": "https://crazy.capital/feed",
+     "cat": "finance",
+     "why": "最近更新 2026-10-27",
+     "site": "crazy.capital"
+    },
+    {
+     "name": "央视财经",
+     "url": "https://plink.anyfeeder.com/weixin/cctvyscj",
+     "cat": "finance",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    }
+   ]
+  },
+  {
+   "group": "新闻与时事",
+   "cat": "media",
+   "why": "事件本身，而不是观点",
+   "items": [
+    {
+     "name": "《联合早报》-中港台-即时",
+     "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "zaobao.com"
+    },
+    {
+     "name": "《联合早报》-国际-即时",
+     "url": "https://plink.anyfeeder.com/zaobao/realtime/world",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "zaobao.com"
+    },
+    {
+     "name": "南方周末-新闻",
+     "url": "https://plink.anyfeeder.com/infzm/news",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "infzm.com"
+    },
+    {
+     "name": "南方周末-推荐",
+     "url": "https://plink.anyfeeder.com/infzm/recommends",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "infzm.com"
+    },
+    {
+     "name": "澎湃新闻",
+     "url": "https://plink.anyfeeder.com/weixin/thepapernews",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "澎湃新闻 - 首页头条",
+     "url": "https://plink.anyfeeder.com/thepaper",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "m.thepaper.cn"
+    },
+    {
+     "name": "界面",
+     "url": "https://plink.anyfeeder.com/weixin/wowjiemian",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "财新网",
+     "url": "https://plink.anyfeeder.com/weixin/caixinwang",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "参考消息",
+     "url": "https://plink.anyfeeder.com/weixin/ckxxwx",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "环球时报",
+     "url": "https://plink.anyfeeder.com/weixin/hqsbwx",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "人民日报",
+     "url": "https://plink.anyfeeder.com/people-daily",
+     "cat": "media",
+     "why": "最近更新 2026-10-31"
+    },
+    {
+     "name": "新华社新闻_新华网",
+     "url": "https://plink.anyfeeder.com/newscn/whxw",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "news.cn"
+    },
+    {
+     "name": "新华网",
+     "url": "https://plink.anyfeeder.com/weixin/newsxinhua",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "首页头条--人民网",
+     "url": "https://plink.anyfeeder.com/people",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "politics.people.com.cn"
+    },
+    {
+     "name": "央视新闻",
+     "url": "https://plink.anyfeeder.com/weixin/cctvnewscenter",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "光明日报",
+     "url": "https://plink.anyfeeder.com/guangmingribao",
+     "cat": "media",
+     "why": "最近更新 2026-01-04"
+    },
+    {
+     "name": "半月谈",
+     "url": "https://plink.anyfeeder.com/weixin/banyuetan-weixin",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "中国日报: 双语新闻",
+     "url": "https://plink.anyfeeder.com/chinadaily/dual",
+     "cat": "media",
+     "why": "长期更新",
+     "site": "language.chinadaily.com.cn"
+    },
+    {
+     "name": "中国日报: 时政",
+     "url": "https://plink.anyfeeder.com/chinadaily/china",
+     "cat": "media",
+     "why": "长期更新",
+     "site": "china.chinadaily.com.cn"
+    },
+    {
+     "name": "侠客岛",
+     "url": "https://plink.anyfeeder.com/weixin/xiake_island",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "长安街知事",
+     "url": "https://plink.anyfeeder.com/weixin/capitalnews",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "Vista看天下",
+     "url": "https://plink.anyfeeder.com/weixin/vistaweek",
+     "cat": "media",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "人物",
+     "url": "https://plink.anyfeeder.com/weixin/renwumag1980",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "三联生活周刊",
+     "url": "https://plink.anyfeeder.com/weixin/lifeweek",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "南都周刊",
+     "url": "https://plink.anyfeeder.com/weixin/nbweekly",
+     "cat": "media",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "香港凤凰周刊",
+     "url": "https://plink.anyfeeder.com/weixin/phoenixweekly",
+     "cat": "media",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "BBC",
+     "url": "https://plink.anyfeeder.com/bbc/cn",
+     "cat": "media",
+     "why": "最近更新 2026-10-14",
+     "site": "bbc.com"
+    },
+    {
+     "name": "法广",
+     "url": "https://plink.anyfeeder.com/rfi/cn",
+     "cat": "media",
+     "why": "最近更新 2026-10-22"
+    },
+    {
+     "name": "纽约时报中文网 国际纵览",
+     "url": "http://cn.nytimes.com/rss/news.xml",
+     "cat": "media",
+     "why": "最近更新 2026-10-30",
+     "site": "cn.nytimes.com"
+    },
+    {
+     "name": "纽约时报双语版",
+     "url": "https://plink.anyfeeder.com/nytimes/dual",
+     "cat": "media",
+     "why": "最近更新 2026-10-30"
+    },
+    {
+     "name": "半岛电视台英语频道",
+     "url": "https://plink.anyfeeder.com/aljazeera/news",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "aljazeera.net"
+    },
+    {
+     "name": "澳大利亚广播公司",
+     "url": "https://plink.anyfeeder.com/abc/cn",
+     "cat": "media",
+     "why": "最近更新 2026-01-13"
+    },
+    {
+     "name": "华尔街日报",
+     "url": "https://plink.anyfeeder.com/wsj/cn",
+     "cat": "media",
+     "why": "最近更新 2024-08-01"
+    },
+    {
+     "name": "经济学人",
+     "url": "https://plink.anyfeeder.com/weixin/theeconomist",
+     "cat": "media",
+     "why": "最近更新 2026-07-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "一天一篇经济学人(双语)",
+     "url": "https://plink.anyfeeder.com/weixin/Economist_fans",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "iDaily 每日环球视野",
+     "url": "https://plink.anyfeeder.com/idaily/today",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "m.idai.ly"
+    },
+    {
+     "name": "ZAKER 精读新闻",
+     "url": "rsshub://zaker/focusread",
+     "cat": "media",
+     "why": "最近更新 2026-10-28",
+     "site": "myzaker.com"
+    },
+    {
+     "name": "抽屉新热榜",
+     "url": "https://plink.anyfeeder.com/chouti/hot",
+     "cat": "media",
+     "why": "最近更新 2026-10-31",
+     "site": "m.weibo.cn"
+    }
+   ]
+  },
+  {
+   "group": "文化与生活",
+   "cat": "lifestyle",
+   "why": "游戏、书、电影与日常",
+   "items": [
+    {
+     "name": "机核",
+     "url": "https://www.gcores.com/rss",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "gcores.com"
+    },
+    {
+     "name": "触乐",
+     "url": "http://www.chuapp.com/feed",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "chuapp.com"
+    },
+    {
+     "name": "游戏研究社",
+     "url": "https://www.yystv.cn/rss/feed",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "yystv.cn"
+    },
+    {
+     "name": "虹膜",
+     "url": "https://plink.anyfeeder.com/weixin/IrisMagazine",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "读库小报",
+     "url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-08-19",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "读小库",
+     "url": "https://plink.anyfeeder.com/weixin/duxiaoku666",
+     "cat": "lifestyle",
+     "why": "最近更新 2025-10-05",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "单读",
+     "url": "https://plink.anyfeeder.com/weixin/dandureading",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "十点读书",
+     "url": "https://plink.anyfeeder.com/weixin/duhaoshu",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "书单来了",
+     "url": "https://plink.anyfeeder.com/weixin/shudanlaile",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "青年文摘",
+     "url": "https://plink.anyfeeder.com/weixin/qnwzwx",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "有书",
+     "url": "https://plink.anyfeeder.com/weixin/youshucc",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "洞见",
+     "url": "https://plink.anyfeeder.com/weixin/DJ00123987",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "张佳玮写字的地方",
+     "url": "https://plink.anyfeeder.com/weixin/zhangjiawei_1983",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "连岳",
+     "url": "https://plink.anyfeeder.com/weixin/ilianyue",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "新世相",
+     "url": "https://plink.anyfeeder.com/weixin/thefair2",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "魔宙",
+     "url": "https://plink.anyfeeder.com/weixin/mzmojo",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "脑洞故事板",
+     "url": "https://plink.anyfeeder.com/weixin/ndgs233",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-07-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "利维坦",
+     "url": "https://plink.anyfeeder.com/weixin/liweitan2014",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "X博士",
+     "url": "https://plink.anyfeeder.com/weixin/doctorx666",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-04",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "丁香医生",
+     "url": "https://plink.anyfeeder.com/weixin/DingXiangYiSheng",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "丁香妈妈",
+     "url": "https://plink.anyfeeder.com/weixin/DingXiangMaMi",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "物种日历",
+     "url": "https://plink.anyfeeder.com/weixin/guokrpac",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "中国国家地理",
+     "url": "https://plink.anyfeeder.com/weixin/dili360",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "地球知识局",
+     "url": "https://plink.anyfeeder.com/weixin/diqiuzhishiju",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "国家人文历史",
+     "url": "https://plink.anyfeeder.com/weixin/gjrwls",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "历史研习社",
+     "url": "https://plink.anyfeeder.com/weixin/mingqinghistory",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-22",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "看理想",
+     "url": "https://plink.anyfeeder.com/weixin/ikanlixiang",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-29",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "罗辑思维",
+     "url": "https://plink.anyfeeder.com/weixin/luojisw",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "维基百科优良条目供稿",
+     "url": "https://zh.wikipedia.org/w/api.php?action=featuredfeed&feed=good&feedformat=atom",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "zh.wikipedia.org"
+    },
+    {
+     "name": "豆瓣最受欢迎的书评",
+     "url": "https://www.douban.com/feed/review/book",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "book.douban.com"
+    },
+    {
+     "name": "理想岛",
+     "url": "https://plink.anyfeeder.com/weixin/lixiangdao002",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-04-18",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "Knowyourself",
+     "url": "https://plink.anyfeeder.com/weixin/knowyourself2015",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-29",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "译言",
+     "url": "https://plink.anyfeeder.com/weixin/yeeyancom",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-08-10",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "新浪体育",
+     "url": "https://plink.anyfeeder.com/weixin/sports_sina",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-27",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "医学界",
+     "url": "https://plink.anyfeeder.com/weixin/yixuejiezazhi",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "六神磊磊读金庸",
+     "url": "https://plink.anyfeeder.com/weixin/dujinyong6",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-18",
+     "site": "weixin.sogou.com"
+    },
+    {
+     "name": "简书首页",
+     "url": "https://plink.anyfeeder.com/jianshu/home",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-31",
+     "site": "jianshu.com"
+    },
+    {
+     "name": "理想生活实验室",
+     "url": "https://www.toodaylab.com/feed",
+     "cat": "lifestyle",
+     "why": "最近更新 2026-10-30",
+     "site": "toodaylab.com"
+    }
+   ]
+  },
+  {
+   "group": "软件与工具",
+   "cat": "tech",
+   "why": "装什么、用什么、怎么省事",
+   "items": [
+    {
+     "name": "小众软件",
+     "url": "https://www.appinn.com/feed/",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "appinn.com"
+    },
+    {
+     "name": "异次元软件世界",
+     "url": "https://feed.iplaysoft.com/",
+     "cat": "tech",
+     "why": "最近更新 2026-10-29",
+     "site": "iplaysoft.com"
+    },
+    {
+     "name": "反斗限免",
+     "url": "http://free.apprcn.com/feed/",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "free.apprcn.com"
+    },
+    {
+     "name": "软餐 - 新鲜软件资讯",
+     "url": "https://plink.anyfeeder.com/ruancan",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "ruancan.com"
+    },
+    {
+     "name": "奔跑中的奶酪",
+     "url": "https://www.runningcheese.com/feed",
+     "cat": "tech",
+     "why": "最近更新 2026-03-10",
+     "site": "runningcheese.com"
+    },
+    {
+     "name": "Bing每日壁纸",
+     "url": "rsshub://bing",
+     "cat": "tech",
+     "why": "最近更新 2026-10-31",
+     "site": "cn.bing.com"
+    }
+   ]
+  },
+  {
+   "group": "视频频道",
+   "cat": "video",
+   "why": "图片墙与站内播放的主粮（条目自带缩略图）",
+   "items": [
+    {
+     "name": "Mark Rober",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg",
+     "cat": "video",
+     "why": "最近更新 2026-10-31",
+     "site": "youtube.com"
+    },
+    {
+     "name": "Kurzgesagt",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+     "cat": "video",
+     "why": "最近更新 2026-10-30",
+     "site": "youtube.com"
+    }
+   ]
+  }
+ ]
+}
